@@ -1,0 +1,40 @@
+no Salí de la cama o no me lavé la cara o no preparé el desayuno o leí el periódico.
+
+no Fui al gimnasio o no hice ejercicio o no tomé una ducha o regresé a casa.
+
+no Estudié para el examen o no repasé mis apuntes o no resolví ejercicios o descansé un rato.
+
+no Limpie la cocina o no barrí el piso o no trapeé o acomodé los platos.
+
+no Organicé mi escritorio o no guardé los papeles o no ordené los libros o limpié la computadora.
+
+no Compré frutas o no verduras o no carne o pan en el mercado.
+
+no Fui a la biblioteca o no busqué un libro o no tomé notas o estudié un rato.
+
+no Llamé a mis amigos o no organizamos una reunión o no cocinamos juntos o vimos una película.
+
+no Caminé por el parque o no respiré aire fresco o no tomé fotos o disfruté el paisaje.
+
+no Me inscribí en un curso o no asistí a la primera clase o no tomé apuntes o participé en las actividades.
+
+no Hice una lista de pendientes o no ordené mis prioridades o no completé varias tareas o revisé mi progreso.
+
+no Me levanté temprano o no hice café o no leí un libro o medité unos minutos.
+
+no Cargué mi teléfono o no revisé mis mensajes o no respondí correos o organizé mi agenda.
+
+no Fui al médico o no me hice un chequeo o no recibí mis resultados o programé una cita de seguimiento.
+
+no Lavé la ropa o no la colgué a secar o no planché algunas prendas o las guardé en el clóset.
+
+no Tomé el autobús o no llegué al trabajo o no atendí a los clientes o trabajé en un proyecto.
+
+no Preparé la cena o no puse la mesa o no serví los platos o limpié después de comer.
+
+no Revisé mis redes sociales o no respondí mensajes o no publiqué una foto o desconecté el teléfono.
+
+no Planeé mis vacaciones o no busqué vuelos o no reservé el hotel o preparé el itinerario.
+
+no Me duché o no me puse ropa cómoda o no preparé un té o me relajé en el sofá.
+
